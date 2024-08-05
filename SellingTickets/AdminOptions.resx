@@ -1,0 +1,337 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnBrowseUsers.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnBrowseUsers.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 8.25pt</value>
+  </data>
+  <data name="btnBrowseUsers.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAAAX5JREFUOE+91DsoRmEcx/Hjfk8RGZRCksFEsRgll5FMCiWb5Lq5TQYWq0KSsrDI
+        gsSglEEuYTFSkmuEwvd3ei3Hc85zpPzq0/s+z3v6v8/1OP+RaJSgHaMYRz/qkI5fRcV6cIo7vOMDL7jE
+        HuoRBWtiMY1XHKETBchEFWbxBhW2Fk3EJFRsCTkwpQwHEaXwLdqAK6wgQx0BUdFzzCNBHd7EYwoPKFaH
+        Jd/PP6JIHd5oRKvYRJI6QqQVt5HPH9F67WAGxikYUgttzrDb8iQL61iGNidMGnGNbrfliaY5B/2jbUMU
+        7ewQdCIq1GFKF7TIvW4rONnYwCFS1WFKHnbxjBpoJ01JwwD0XAti4JtK6Gpp6iMohwroBuVC67YITfUJ
+        fYiDb7Q2+ViAzuQFdCP2cQJtgkam75/QsRmD9V6nQKNZww10f88wAR1kvYmOoaL6bRDWorZUQ0X1JtJI
+        2xD2DPtGa74NjVTr3gGt95+i07GFezQjcNfDphBNSHYcx/kCzuNRbmk55S0AAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btnBrowseUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>547, 90</value>
+  </data>
+  <data name="btnBrowseUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 25</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnBrowseUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseUsers.Name" xml:space="preserve">
+    <value>btnBrowseUsers</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseUsers.Parent" xml:space="preserve">
+    <value>tabUsers</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseUsers.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="txtBoxBrowseUsers.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="txtBoxBrowseUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 91</value>
+  </data>
+  <data name="txtBoxBrowseUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>369, 23</value>
+  </data>
+  <data name="txtBoxBrowseUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txtBoxBrowseUsers.Name" xml:space="preserve">
+    <value>txtBoxBrowseUsers</value>
+  </data>
+  <data name="&gt;&gt;txtBoxBrowseUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtBoxBrowseUsers.Parent" xml:space="preserve">
+    <value>tabUsers</value>
+  </data>
+  <data name="&gt;&gt;txtBoxBrowseUsers.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblBrowseUsers.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="lblBrowseUsers.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblBrowseUsers.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Showcard Gothic, 24pt</value>
+  </data>
+  <data name="lblBrowseUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>155, 26</value>
+  </data>
+  <data name="lblBrowseUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>418, 40</value>
+  </data>
+  <data name="lblBrowseUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="lblBrowseUsers.Text" xml:space="preserve">
+    <value>Browse Through Users</value>
+  </data>
+  <data name="&gt;&gt;lblBrowseUsers.Name" xml:space="preserve">
+    <value>lblBrowseUsers</value>
+  </data>
+  <data name="&gt;&gt;lblBrowseUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblBrowseUsers.Parent" xml:space="preserve">
+    <value>tabUsers</value>
+  </data>
+  <data name="&gt;&gt;lblBrowseUsers.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="dataGridView1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="dataGridView1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 210</value>
+  </data>
+  <data name="dataGridView1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>746, 250</value>
+  </data>
+  <data name="dataGridView1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Name" xml:space="preserve">
+    <value>dataGridView1</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Parent" xml:space="preserve">
+    <value>tabUsers</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tabUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabUsers.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>752, 463</value>
+  </data>
+  <data name="tabUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tabUsers.Text" xml:space="preserve">
+    <value>Users</value>
+  </data>
+  <data name="&gt;&gt;tabUsers.Name" xml:space="preserve">
+    <value>tabUsers</value>
+  </data>
+  <data name="&gt;&gt;tabUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabUsers.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabUsers.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnLogOut.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15.75pt, style=Bold</value>
+  </data>
+  <data name="btnLogOut.Location" type="System.Drawing.Point, System.Drawing">
+    <value>319, 91</value>
+  </data>
+  <data name="btnLogOut.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 39</value>
+  </data>
+  <data name="btnLogOut.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnLogOut.Text" xml:space="preserve">
+    <value>LOG OUT</value>
+  </data>
+  <data name="&gt;&gt;btnLogOut.Name" xml:space="preserve">
+    <value>btnLogOut</value>
+  </data>
+  <data name="&gt;&gt;btnLogOut.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLogOut.Parent" xml:space="preserve">
+    <value>tabLogout</value>
+  </data>
+  <data name="&gt;&gt;btnLogOut.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Showcard Gothic, 24pt</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 26</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>612, 40</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Are you sure you want to log out?</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>tabLogout</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabLogout.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="tabLogout.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabLogout.Size" type="System.Drawing.Size, System.Drawing">
+    <value>752, 463</value>
+  </data>
+  <data name="tabLogout.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tabLogout.Text" xml:space="preserve">
+    <value>Log Out</value>
+  </data>
+  <data name="&gt;&gt;tabLogout.Name" xml:space="preserve">
+    <value>tabLogout</value>
+  </data>
+  <data name="&gt;&gt;tabLogout.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabLogout.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabLogout.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabControl1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tabControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="tabControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>760, 491</value>
+  </data>
+  <data name="tabControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Name" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>760, 491</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>AdminOptions</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>AdminOptions</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

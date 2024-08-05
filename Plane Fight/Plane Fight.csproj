@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Plane_Fight</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icon-blackSU.png" />
+    <None Remove="icon-skull.png" />
+    <None Remove="icon-whiteSU.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icon-blackSU.png" />
+    <Resource Include="icon-skull.png" />
+    <Resource Include="icon-whiteSU.png" />
+  </ItemGroup>
+
+</Project>

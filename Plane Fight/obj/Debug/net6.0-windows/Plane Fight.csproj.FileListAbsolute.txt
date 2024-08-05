@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\bin\Debug\net6.0-windows\Plane Fight.exe
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\bin\Debug\net6.0-windows\Plane Fight.deps.json
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\bin\Debug\net6.0-windows\Plane Fight.runtimeconfig.json
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\bin\Debug\net6.0-windows\Plane Fight.dll
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\bin\Debug\net6.0-windows\Plane Fight.pdb
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight_MarkupCompile.cache
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight_MarkupCompile.lref
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.g.resources
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.AssemblyInfo.cs
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.dll
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\refint\Plane Fight.dll
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.pdb
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\Plane Fight.genruntimeconfig.cache
+C:\Users\User\Desktop\Књиге за 4. годину ЕТФ\Седми семестар\Интеракција ч-р\Пројекти\Plane Fight\obj\Debug\net6.0-windows\ref\Plane Fight.dll
